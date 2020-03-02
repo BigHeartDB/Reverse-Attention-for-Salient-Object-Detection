@@ -33,4 +33,7 @@ deep supervision과 side outputs의 부재로 성능이 충분치 않음. (FCN�
 - deep supervision이란 무엇인가? -> more transparent feature를 학습하도록 guiding.
 - 
 
-####
+#### 2.1. Existing multi-scale and multi-level NN
+```
+
+```
